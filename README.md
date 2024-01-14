@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
+- Solution URL: (https://github.com/hassanmoaa/Qr-code-challenge-FrontEndMentor.git)
+- Live Site URL: (https://ubiquitous-semolina-1ee16a.netlify.app/)
 
 
 ### Built with
@@ -40,18 +40,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I've had a hard time figuring out the suitable css properties for this challenge but as i completed it, it gived me motivation to pursue more Front-end challenges as it sharpens my skills while doing it!
+- I've had a hard time figuring out the suitable css properties for this challenge but as i completed it, it gived me motivation to pursue more Front-end challenges as it sharpens my skills while doing it!
 
-body{
-    font-family: 'Outfit', sans-serif;
-    text-align: center;
-    background-color: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    height: 100vh;
-}
+body {
+    font-family: 'Outfit', sans-serif; 
+    text-align: center; 
+    background-color: hsl(212, 45%, 89%); 
+    display: flex; 
+    justify-content: center; 
+    flex-direction: column; 
+    align-items: center; 
+    height: 100vh; 
+} 
 
 .card {
         border: 3px solid white;
@@ -68,7 +68,7 @@ body{
 
 ### Useful resources
 
--(https://www.w3schools.com) - W3S helped me putting the right width in this challenge making it responsive.
+- (https://www.w3schools.com) - W3S helped me putting the right width in this challenge making it responsive.
 
 
 ## Author
